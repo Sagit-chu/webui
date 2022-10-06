@@ -172,7 +172,7 @@
     "jest": "^27.0.4",
     "jira-prepare-commit-msg": "^1.6.1",
     "lint-staged": "^11.1.2",
-    "snyk": "^1.467.0",
+    "snyk": "^1.996.0",
     "stylelint": "^13.13.1",
     "stylelint-config-sass-guidelines": "~8.0.0",
     "stylelint-config-standard": "^22.0.0",
